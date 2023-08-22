@@ -4,7 +4,7 @@ this is a basic OpenSea-Monitor script, which sends you a Discord-Webhook once a
 
 It will launch a selenium browser and monitor your collection. 
 
-it's not adviced to use this script, as selenium monitors are great for alpha testing, however not fast enough to get reliable results. See it as inspiration. 
+It's not adviced to use this script, as selenium monitors are great for alpha testing, however not fast enough to get reliable results. See it as inspiration. 
 
 Enjoy!
 
